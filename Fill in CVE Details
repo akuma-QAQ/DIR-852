@@ -1,0 +1,16 @@
+BUG_Author:
+XinQi Chen
+
+Affected version:
+MIPS-I version 1 (SYSV)
+
+Vendor:
+D-Link
+
+Software:
+https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-852
+
+Vulnerability File:
+DIR852_FW100CNb09.bin.extracted/squashfs-root/usr/sbin/email
+
+Description:
